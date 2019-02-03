@@ -23,7 +23,18 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im2.ezgif.com/tmp/ezgif-2-b68bbc439173.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+icon on home screen, styled launch screen, logging in, and viewing tweets with profile picture, username, and tweet text:
+
+<img src='https://i.imgur.com/zqYbbJ6.gif' title='icon on home screen, styled launch screen, and log in:' width='' alt='icon on home screen, styled launch screen, and log in:' />
+
+user staying logged in after a restart and logging out:
+
+<img src='https://i.imgur.com/TSB4B9T.gif' title='logout' width='' alt='logout' />
+
+bonus stories:
+
+<img src='https://i.imgur.com/P4s5lqt.gif' title='bonus' width='' alt='bonus' />
+
 
 GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgig](https://ezgif.com/) to convert the mp4 into a gif.
 
