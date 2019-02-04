@@ -1,6 +1,6 @@
-# Project 3 - *jtavassoTwitter*
+# Twitter - Part 1
 
-**jtavassoTwitter** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
 
@@ -23,17 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-icon on home screen, styled launch screen, logging in, and viewing tweets with profile picture, username, and tweet text:
-
-<img src='https://im2.ezgif.com/tmp/ezgif-2-b90fe8b258ea.gif' title='icon on home screen, styled launch screen, and log in:' width='' alt='icon on home screen, styled launch screen, and log in:' />
-
-user staying logged in after a restart and logging out:
-
-<img src='https://im2.ezgif.com/tmp/ezgif-2-623260af1e92.gif' title='logout' width='' alt='logout' />
-
-bonus stories:
-
-<img src='https://im2.ezgif.com/tmp/ezgif-2-2db86ea968f4.gif' title='bonus' width='' alt='bonus' />
+<img src='https://i.imgur.com/XXKWJyq.gif' title='icon on home screen, styled launch screen, and log in:' width='' alt='icon on home screen, styled launch screen, and log in:' />
 
 
 GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgig](https://ezgif.com/) to convert the mp4 into a gif.
