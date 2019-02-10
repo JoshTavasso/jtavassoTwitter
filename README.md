@@ -22,7 +22,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/22N6zTJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgig](https://ezgif.com/) to convert the mp4 into a gif.
 
 # Twitter - Part I
 
