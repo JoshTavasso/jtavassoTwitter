@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/22N6zTJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgig](https://ezgif.com/) to convert the mp4 into a gif.
+GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgif](https://ezgif.com/) to convert the mp4 into a gif.
 
 # Twitter - Part I
 
@@ -54,6 +54,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/XXKWJyq.gif' title='icon on home screen, styled launch screen, and log in:' width='' alt='icon on home screen, styled launch screen, and log in:' />
 
 
-GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgig](https://ezgif.com/) to convert the mp4 into a gif.
+GIF created by using [QuickTime](https://support.apple.com/quicktime) screen recording to create a video walkthrough. Then, I used [ezgif](https://ezgif.com/) to convert the mp4 into a gif.
 
 
